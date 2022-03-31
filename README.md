@@ -1,2 +1,1 @@
-#!/bin/bash
-My first Readme.md
+My first README.md
